@@ -72,14 +72,14 @@ Você pode ver o layout do projeto através do link abaixo:
 
 - [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
 
-## Próximos Passos
+## ⏭️ Próximos Passos
 
-[] arrumar responsividade
-[] versão PWA / next-pwa
-[] função de volume
-[] tema dark
-[] listar no readme todas as funcionalidades usadas (salvo no notion)
-[] colocar imagem do app no readme
+- [ ] arrumar responsividade
+- [ ] versão PWA / next-pwa
+- [ ] função de volume
+- [ ] tema dark
+- [ ] listar no readme todas as funcionalidades usadas (salvo no notion)
+- [ ] colocar imagem do app no readme
 
 ## :memo: Licença
 
